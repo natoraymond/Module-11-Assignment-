@@ -1,0 +1,23 @@
+body {
+  
+}
+h1 {
+  color: red;
+  text-align: center;
+}
+h2{
+  color: blue;
+  text-align: center;
+  
+}
+.cls {
+  text-align: center;
+}
+p {
+  text-align: left;
+}
+img{
+  background-color:purple;
+  margin:2%;
+  border-radius:20px;
+}
